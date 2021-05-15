@@ -8,8 +8,6 @@ Olist is a Brazillian company that provides a consolidated e-commerce service to
 
 ## Olist Data Analyst Challenge
 
-### Background:
-
 This challenge ensure's the following:
 - A working knowledge of data analysis tools and methodologies
 - Experience analyzing large data sets
