@@ -20,7 +20,6 @@ Here are some facts:
  - It’s currently September 1st 2018 (Ignoring September 2018 and after)
  - The company’s inception was January 1st 2017 (Ignore all data before January 2017)
  - Company is based in Brazil (which is why some information is in Portuguese, inlcuding currency)
- - Summarizes the seller funnel from marketing sign up to launching products on the platform
  - Please provide Customer LTV 
  - Summarizes the current state of the business
  - What has performance been monthly
